@@ -1,5 +1,5 @@
 # Learning-Cpp
-Learning c++ 
 
-IDE: Code Blocks
+IDE: Code Blocks (for giggles?)
+
 Reference Material: https://www.youtube.com/watch?v=vLnPwxZdW4Y
